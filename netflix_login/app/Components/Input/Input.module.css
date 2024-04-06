@@ -1,0 +1,45 @@
+.InputParent {
+    position: relative;
+    padding: 15px 0 0;
+    margin-top: 10px;
+    width: 400px;
+}
+
+.InputBox {
+    background: transparent;
+    border-bottom: 2px solid #b5b1b1;
+    width: 100%;
+    font-size: 16px;
+    color: #fff;
+    padding: 7px 0;
+    margin-block: 20px;
+}
+
+.InputBox::placeholder {
+    color: transparent;
+}
+
+.InputBox:placeholder-shown~.Inputlabel {
+    font-size: 16px;
+    cursor: text;
+    top: 20px;
+}
+
+.Inputlabel {
+    position: absolute;
+    top: 0;
+    display: block;
+    font-size: 16px;
+    color: #b5b1b1;
+    transition: 0.2s;
+}
+
+.InputBox:focus~.Inputlabel {
+    position: absolute;
+    top: 0;
+    display: block;
+    transition: 0.2s;
+    font-size: 16px;
+    color: var(--main);
+    font-weight: 700;
+}

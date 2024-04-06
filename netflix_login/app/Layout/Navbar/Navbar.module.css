@@ -1,0 +1,12 @@
+.Navbar {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 300px;
+}
+
+.Navbar .LogoParent {
+    object-fit: cover;
+    width: max-content;
+}
