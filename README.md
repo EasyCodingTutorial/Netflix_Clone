@@ -1,4 +1,4 @@
-### Netflix Login Page Clone
+### Netflix Clone
 
 ![logo](https://github.com/EasyCodingTutorial/Netflix_Login/assets/84335112/975cef91-7823-4b50-b41e-05f6dd2055a6)
 
