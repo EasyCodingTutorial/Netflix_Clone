@@ -58,16 +58,9 @@ http://localhost:3000
 ### Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-
-
-![screencapture-localhost-3000-Login-2024-04-05-09_18_20](https://github.com/EasyCodingTutorial/Netflix_Login/assets/84335112/5e9e782f-f5cc-4d94-951c-0ca3cf555bd3)
-
-
+ 
  ## Learn By Watching Video  ▶️
  [![Watch Demo Video](https://img.youtube.com/vi/9jWh_SQ4NCw/maxresdefault.jpg)](https://www.youtube.com/watch?v=9jWh_SQ4NCw)
 
-
-![Clones](https://github.com/EasyCodingTutorial/Netflix_Clone/assets/84335112/4520e02d-e4f6-4ed9-8c52-1b12afdbec38)
-
-
+ 
 
